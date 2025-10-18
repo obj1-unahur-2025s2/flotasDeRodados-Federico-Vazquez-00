@@ -1,5 +1,5 @@
 object pepita {
-  var energy = 1000
+  var energy = 100
 
   method energy() = energy
 
